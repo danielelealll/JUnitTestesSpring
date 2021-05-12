@@ -1,2 +1,2 @@
 # JUnitTestesSpring
-Realização de testes de unidade com JUnit/Spring
+Realização de testes de unidade com JUnit/Spring.
